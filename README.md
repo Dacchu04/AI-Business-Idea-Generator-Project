@@ -1,4 +1,4 @@
-# AI Business Idea Generator — Project 21 (Gemini)
+# AI Business Idea Generator — Project (Gemini)
 
 Uses Google's Gemini API with the stable `gemini-3.1-flash-lite` model.
 
